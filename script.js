@@ -1,6 +1,6 @@
 ﻿const API_URL = "https://script.google.com/macros/s/AKfycby8YcBUSQFA_Z_mqFWDexjKMnHWzTQy_t0NrsvdgnAyDZz9xpt6gKjSR9Bez2EIdu9Cpw/exec";
 
-const SHEETS_WEBHOOK_URL = "https://script.google.com/macros/s/AKfycbzIXWFieo82LbexUgAlx-QR5frNyWY8UkVfgi_DnKVpX6pMjKfBj64aV0PRU2YxwOzUOw/exec";
+const SHEETS_WEBHOOK_URL = "https://script.google.com/macros/s/AKfycbxxrJ0UmM7URdz-0VIyFO8ixcPYELvmOFcI2NuR6Jo4pqwyIlUFf15bDMPFKZ9yMVq-2w/exec";
 const inputIps = document.getElementById("ips_visitada");
 const inputCodigoHabilitacion = document.getElementById("codigo_habilitacion_ips");
 const listaIps = document.getElementById("resultadosIps");
