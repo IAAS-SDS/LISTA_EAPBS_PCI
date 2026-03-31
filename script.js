@@ -13,6 +13,7 @@ const inputFechaVisitaSeguimiento = document.getElementById("fecha_visita_seguim
 const VALIDAR_CAMPOS_ANTES_DE_ENVIAR = true;
 const ENVIAR_A_GOOGLE_SHEETS = true;
 
+
 let timer = null;
 
 inputIps.addEventListener("input", () => {
